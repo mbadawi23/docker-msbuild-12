@@ -1,7 +1,5 @@
 FROM microsoft/dotnet-framework:4.7
 
-LABEL maintainer="melkammar@invensense.com"
-
 SHELL ["powershell"]
 
 # TODO: Define temp folder location
